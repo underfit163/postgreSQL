@@ -1,3 +1,5 @@
+# Шпаргалка по postgreSQL
+
 ## Работа с postgres из docker
 
 psql -U user -d pg
